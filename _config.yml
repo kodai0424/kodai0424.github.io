@@ -3,5 +3,5 @@ title: The homepage of Kodai Nedachi, introducing myself
 description: What you will find here are links to Hokudai boy.
 plugins:
   - jemoji
-url: "https://kodai0424.github.io/&quot;
+url: "https://kodai0424.github.io"
 markdown: kramdown
